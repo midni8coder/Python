@@ -1,5 +1,6 @@
 # Object Oriented programming  - Introduction, Blob class object creation & multiple
 # blob objects creation 
+# Modularity - removing all hardcoded values in the class and making them configurable from outside
 
 import pygame
 import random
